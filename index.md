@@ -12,6 +12,8 @@ Markdown is a simple text formatting syntax used on GitHub. It helps structure t
 
 ### Adding an Image
 
-Here is an example of an image in Markdown:
+
+
+Here is an image in Markdown:
 
 ![GitHub Octocat](https://octodex.github.com/images/yaktocat.png)
